@@ -1,2 +1,2 @@
 name = input()
-print("Добро пожаловать в D H,"+ name)
+print("Добро пожаловать в DH,"+ name)
